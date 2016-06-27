@@ -17,19 +17,28 @@
 
   <body>
 
-    <h1>Meet our team</h1>
-    <h2>Only #10 in our team</h2>
+    <div class="container text-center padded features">
+      <h1>Meet our team</h1>
+      <h2>Only #10 in our team</h2>
 
 
-    <ul class="list-inline text-center">
-      <% ["zidane", "platini", "maradona"].each do |member| %>
-        <li>
-          <%= image_tag "#{member}.jpeg", class: "img-circle" %>
-          <h3><%= member.capitalize %></h3>
-        </li>
-      <% end %>
-    </ul>
+      <ul class="list-inline text-center">
+        <% ["zidane", "platini", "maradona"].each do |member| %>
+          <li>
+            <%= image_tag "#{member}.jpeg", class: "img-circle", style: "width: 100px" %>
+            <h3><%= member.capitalize %></h3>
+          </li>
+        <% end %>
+      </ul>
 
+    <a href="mailto:contact@airbnb.wag">
+      <h3><i class="fa fa-envelope"></i> contact@airbnb.wag</h3>
+
+    </a>
+
+
+
+    </div>
 
 
 
