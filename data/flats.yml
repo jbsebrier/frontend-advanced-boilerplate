@@ -1,0 +1,49 @@
+zizou:
+  owner_name: Zinédine
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Zizou's room
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+david:
+  owner_name: David
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: David's flat
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: true
+francesco:
+  owner_name: Francesco
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Totti's casa
+  summary: Great mansion near the Olimpico
+  city: Rome, Italy
+  wifi: false
+oliver:
+  owner_name: Oliver
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Oli's haus
+  summary: splendid chalet in the mountains
+  city: Munich, Germany
+  wifi: false
+ruud:
+  owner_name: Ruud
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Ruud's loft
+  summary: Lovely loft
+  city: Amsterdam, Netherlands
+  wifi: false
+ronaldo:
+  owner_name: Ronaldo
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Ronnie's plaza
+  summary: Great condo near Ipanema
+  city: Rio, Brazil
+  wifi: false
+

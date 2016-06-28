@@ -1,0 +1,20 @@
+.detail-card{
+display:flex;
+position: relative;
+
+
+ img {
+    position:absolute;
+    width: 80px;
+    top: 3px;
+    left: 3px;
+    }
+}
+
+
+.detail-card-summary {
+  position: absolute;
+  top: 50%;
+  right: 3px;
+}
+
